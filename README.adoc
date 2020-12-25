@@ -1,0 +1,10 @@
+== LinkOpenBot ==
+
+A Discord selfbot that lets you open links from stock notification servers...
+
+To get this to work, you need a few things:
+
+1) A Config.json file that details how you want LinkOpenBot to open links [TODO this will be added soon]
+2) A Discord selfbot (its token) 
+
+... I'm not responsible if your Discord selfbot account gets suspended—selfbotting is against the Discord TOS, or so I think. Either way, don't blame me.
